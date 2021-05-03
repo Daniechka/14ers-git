@@ -25,6 +25,9 @@ A shell script was written to create empty markdown files - one for each mountai
 1. chmod u+x create-files.sh
 2. Run bash script
 
+
+# new test text here
+
 ```
 #!/bin/bash
 
